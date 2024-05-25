@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alan Joseph</h1>
 <h3 align="center">A passionate fullstack developer from Kerala,India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=gif%20images%20coffee%20and%20coding&imgurl=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2FfAcQ7d1Hnx2XlY6SMe%2Fgiphy.gif%3Fcid%3D6c09b952l6jriwkckgdd6gsuzgwx284gb4jks02jxypqkrjc%26ep%3Dv1_internal_gif_by_id%26rid%3Dgiphy.gif%26ct%3Ds&imgrefurl=https%3A%2F%2Fgiphy.com%2Fstickers%2FPLCnext-plcnext-phoenixcontact-plcnexttechnology-fAcQ7d1Hnx2XlY6SMe&docid=A9X5h3ezjxoD-M&tbnid=U5oTiyDx10K2oM&vet=12ahUKEwi64LvymKmGAxWSxTgGHaEpB8MQM3oECBUQAA..i&w=359&h=480&hcb=2&ved=2ahUKEwi64LvymKmGAxWSxTgGHaEpB8MQM3oECBUQAA")
+(img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif?cid=6c09b952l6jriwkckgdd6gsuzgwx284gb4jks02jxypqkrjc&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s")
 
 <p align="left"> <a href="https://twitter.com/a1anjo" target="blank"><img src="https://img.shields.io/twitter/follow/a1anjo?logo=twitter&style=for-the-badge" alt="a1anjo" /></a> </p>
 
