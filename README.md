@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alanjosephv29@gmail.com**
 
-- ⚡ Fun fact **I believe that there’s always something new to learn in the world of programming.**
+- ⚡**I believe that there’s always something new to learn in the world of programming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
