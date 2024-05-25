@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alan Joseph</h1>
 <h3 align="center">A passionate fullstack developer from Kerala,India</h3>
-(img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif?cid=6c09b952l6jriwkckgdd6gsuzgwx284gb4jks02jxypqkrjc&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s")
+(img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/PLCnext-plcnext-phoenixcontact-plcnexttechnology-fAcQ7d1Hnx2XlY6SMe")
 
 <p align="left"> <a href="https://twitter.com/a1anjo" target="blank"><img src="https://img.shields.io/twitter/follow/a1anjo?logo=twitter&style=for-the-badge" alt="a1anjo" /></a> </p>
 
