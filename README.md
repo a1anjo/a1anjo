@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node and Flutter**
 
-- 📫 How to reach me **alanjosephv29@gmail.com**
+
 
 - ⚡**I believe that there’s always something new to learn in the world of programming.**
 
